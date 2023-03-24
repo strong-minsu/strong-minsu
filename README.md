@@ -13,6 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg3ZDlmOGIxNzdhM2I4YzI1M2VmZjk5YzE4MWZjY2EzMTE3Yjc1ZCZjdD1n/3gS6dPa2YpUlNhKg1S/giphy.gif" />
-</div>
+![giphy](https://user-images.githubusercontent.com/95047661/227539537-cf9c5f2d-90c9-4b1e-92ff-d91af9df7d69.gif)
