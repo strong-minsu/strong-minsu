@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **strong-minsu/strong-minsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![giphy](https://user-images.githubusercontent.com/95047661/227535975-f7a1912e-4c36-4d91-b313-87a1fdb56cf6.gif)
+### Hi there 👋
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg3ZDlmOGIxNzdhM2I4YzI1M2VmZjk5YzE4MWZjY2EzMTE3Yjc1ZCZjdD1n/3gS6dPa2YpUlNhKg1S/giphy.gif" />
+</div>
